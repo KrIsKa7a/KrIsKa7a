@@ -7,7 +7,7 @@
 
 I'm an Embedded Software Developer and Electronics Engineer with a passion for turning ideas into functional and efficient software-driven solutions. My expertise lies in writing code in C, C++, C# and JS. I love working on projects that challenge me to innovate and problem-solve in the realm of embedded systems.
 
-- 🔭 I’m currently working an Embedded Software Enginner @ [*Visteon*](https://www.visteon.com/), where I'm working on developing new higly-optimized automotive software.
+- 🔭 I’m currently working as an Embedded Software Enginner @ [*MBition*](https://mbition.io/), where I'm working on developing new higly-optimized automotive software.
 - 🌱 I’m constantly learning and experimenting with new techniques and technologies to stay up-to-date in the ever-evolving world of embedded systems.
   
 ## You can reach me at:
