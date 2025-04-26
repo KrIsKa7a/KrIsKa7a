@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kristiyan
+![image](https://github.com/user-attachments/assets/d44e7068-bce2-4a17-9318-bfa5f66169f8)# Hi there! 👋 I'm Kristiyan
 
 <!--<a href="#" target="blank"><img align="center" src="https://iset.academy/wp-content/uploads/2020/10/embeddedSoftwareSolutions.jpg" height="269" width="1000" /></a>-->
 ![embeddeddevgif](https://technoscripts.in/img/blogs/Real%20World%20Examples%20of%20Automotive%20Embedded%20Systems.webp)
@@ -21,7 +21,7 @@ I'm an Embedded Software Developer and Electronics Engineer with a passion for t
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="" height="30" /></a>
 <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="" height="30" /></a>
-<a href="#" target="blank"><img align="center" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="" height="30" /></a>
+<a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="" height="30" /></a>
 <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="" height="30" /></a>
 </p>
 
