@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d44e7068-bce2-4a17-9318-bfa5f66169f8)# Hi there! 👋 I'm Kristiyan
+Hi there! 👋 I'm Kristiyan
 
 <!--<a href="#" target="blank"><img align="center" src="https://iset.academy/wp-content/uploads/2020/10/embeddedSoftwareSolutions.jpg" height="269" width="1000" /></a>-->
 ![embeddeddevgif](https://technoscripts.in/img/blogs/Real%20World%20Examples%20of%20Automotive%20Embedded%20Systems.webp)
