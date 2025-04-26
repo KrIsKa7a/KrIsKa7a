@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Kristiyan
 
 <!--<a href="#" target="blank"><img align="center" src="https://iset.academy/wp-content/uploads/2020/10/embeddedSoftwareSolutions.jpg" height="269" width="1000" /></a>-->
-![embeddeddevgif](https://www.einfochips.com/blog/wp-content/uploads/2018/10/iot_gif2.gif)
+![embeddeddevgif](https://technoscripts.in/img/blogs/Real%20World%20Examples%20of%20Automotive%20Embedded%20Systems.webp)
 
 ## About Me
 
